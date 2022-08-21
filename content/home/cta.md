@@ -2,7 +2,7 @@
 widget: hero
 widget_id: Chamada
 headless: true
-weight: 40
+weight: 30
 title: ""
 subtitle: null
 active: false
