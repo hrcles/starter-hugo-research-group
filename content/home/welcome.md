@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: Postagens recentes
+widget_id: painel
 headless: true
 weight: 10
 title: Laboratório de Psicolinguística e Surdez
